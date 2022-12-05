@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='coloringsnow',
+    name='coloringsnowflake',
     version='1.0',
     scripts=['let_it_snow.py'],
 )
