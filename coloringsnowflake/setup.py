@@ -4,4 +4,6 @@ setup(
     name='coloringsnowflake',
     version='1.0',
     scripts=['let_it_snow.py'],
+install_requires= ['random', 'numpy', 'turtle'],
+
 )
