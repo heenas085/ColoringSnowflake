@@ -1,0 +1,1 @@
+random numpy>=1.15.0, <1.21.0 pandas pytest==4.0.1 -e https://github.com/heenas085/ColoringSnowflake.git@2.38.1windows.1#egg=snowflake
